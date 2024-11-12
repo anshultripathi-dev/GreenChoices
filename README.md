@@ -31,7 +31,7 @@ This project is a full-stack flower store website created as a university task w
 3. Import the database file provided (`shop_db.sql`) into your MySQL database.
 4. Place the project folder inside the `htdocs` directory of your XAMPP installation.
 5. Start the Apache and MySQL services in XAMPP.
-6. Open your web browser and navigate to `localhost/flower-store`.
+6. Open your web browser and navigate to `localhost/[project_name]`.
 7. Use the login/logout icon to log in as a regular user or an admin.
 8. Explore the different pages including home, about us, products, and feedback.
 9. Regular users can buy products and send feedback.
