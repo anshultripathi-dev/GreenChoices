@@ -8,7 +8,7 @@ This project is a full-stack marketplace website created as a university task wi
 ### Features:
 - Home page
 - About us page
-- Products page with various types of flowers
+- Products page with various types of products
 - Feedback page
 - Login/logout icon
 - Two types of users: regular users and admins
