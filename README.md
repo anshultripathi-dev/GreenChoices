@@ -1,7 +1,7 @@
 ![homepage](https://github.com/user-attachments/assets/63e94d44-b7a0-43ef-b30a-516af54e5c4c)
 
 
-# Flower Store Full Stack Website
+# Product Market Place Full Stack Website
 
 This project is a full-stack flower store website created as a university task with my team. The website is built using HTML, CSS, JavaScript, PHP, MySQL, and the XAMPP server. It includes multiple pages such as home, about us, products, and feedback. 
 
