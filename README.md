@@ -1,5 +1,5 @@
-![homepage.jpg]
----
+![homepage](https://github.com/user-attachments/assets/63e94d44-b7a0-43ef-b30a-516af54e5c4c)
+
 
 # Flower Store Full Stack Website
 
