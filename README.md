@@ -28,7 +28,7 @@ This project is a full-stack flower store website created as a university task w
 ### How to Use:
 1. Clone the repository.
 2. Install and configure XAMPP server.
-3. Import the database file provided (`database.sql`) into your MySQL database.
+3. Import the database file provided (`shop_db.sql`) into your MySQL database.
 4. Place the project folder inside the `htdocs` directory of your XAMPP installation.
 5. Start the Apache and MySQL services in XAMPP.
 6. Open your web browser and navigate to `localhost/flower-store`.
@@ -39,7 +39,7 @@ This project is a full-stack flower store website created as a university task w
 11. Add products to your cart and enjoy a 10% discount on all items.
 
 ### Additional Information:
-- This project was developed as a university task for [University Name].
+- This project was developed as a university task for VIT Vellore [WEBATHON 2024 - Web Technologies].
 - Feel free to explore the website and provide feedback.
 
 ---
