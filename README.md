@@ -3,7 +3,7 @@
 
 # Product Market Place Full Stack Website
 
-This project is a full-stack flower store website created as a university task with my team. The website is built using HTML, CSS, JavaScript, PHP, MySQL, and the XAMPP server. It includes multiple pages such as home, about us, products, and feedback. 
+This project is a full-stack marketplace website created as a university task with my team. The website is built using HTML, CSS, JavaScript, PHP, MySQL, and the XAMPP server. It includes multiple pages such as home, about us, products, and feedback. 
 
 ### Features:
 - Home page
